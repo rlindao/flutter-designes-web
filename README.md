@@ -18,10 +18,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Captura 1](https://github.com/rlindao/flutter-designes-web/capturas/captura1.png)
+![Captura 1](https://github.com/rlindao/flutter-designes-web/blob/master/capturas/captura1.png)
 
 
-![Captura 2](https://github.com/rlindao/flutter-designes-web/capturas/captura2.png)
+![Captura 2](https://github.com/rlindao/flutter-designes-web/blob/master/capturas/captura2.png)
 
 
-![Captura 3](https://github.com/rlindao/flutter-designes-web/capturas/captura3.png)
+![Captura 3](https://github.com/rlindao/flutter-designes-web/blob/master/capturas/captura3.png)
